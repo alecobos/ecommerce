@@ -1,0 +1,9 @@
+.lista{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+
+.izquierda{
+    text-align: start;
+}
